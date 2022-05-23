@@ -43,10 +43,15 @@ font-size: 50px;
   
 }
 
-.Main {
+
+
+.backup {
 font-size: 25px;
+
+
   
 }
+
 
 
 .FB {
@@ -70,17 +75,32 @@ font-size: 30px;
 
 .combo {
 font-size: 50px;
+  
+}
+
+.osu {
+font-size: 50px;
 
   
 }
 
 .BB {
 font-size: 50px;
+
   
 }
 
+
 .surf {
 font-size: 50px;
+
+  
+}
+
+
+.mario {
+font-size: 50px;
+
 
   
 }
